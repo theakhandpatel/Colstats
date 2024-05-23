@@ -1,0 +1,7 @@
+goos: linux
+goarch: amd64
+pkg: github.com/theakhandpatel/colStat
+cpu: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+BenchmarkRun-8   	      10	 765187632 ns/op	495567914 B/op	 5041044 allocs/op
+PASS
+ok  	github.com/theakhandpatel/colStat	8.479s
